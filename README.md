@@ -62,7 +62,7 @@ W projekcie analizuję m.in.:
 
 ## Struktura repozytorium
 
-- `data/netflix_clean.json` — oczyszczony plik z danymi
+- `data/netflix_clean.json` — oczyszczony plik z danymi z Kaggla
 - `scripts/load_data.py` — skrypt ładujący dane do SQLite
 - `database/netflix.db` — baza SQLite utworzona na podstawie pliku JSON
 - `sql/` — zapytania SQL
